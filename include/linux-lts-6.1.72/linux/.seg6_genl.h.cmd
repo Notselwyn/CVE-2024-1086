@@ -1,0 +1,1 @@
+cmd_usr/include/linux/seg6_genl.h := sh ./scripts/headers_install.sh include/uapi/linux/seg6_genl.h usr/include/linux/seg6_genl.h
